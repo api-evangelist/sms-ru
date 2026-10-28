@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SMS.ru is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sms.ru/
+SMS.ru provides a mass SMS sending service across Russia, offering a personal account and an HTTP/SMTP API for sending SMS messages. Users can launch campaigns within 15 minutes, view transparent operator‑based pricing, and register an alphanumeric sender name. The platform supports bulk messaging, authentication via calls, balance checks, and cost estimation, catering to businesses needing reliable communication.
+
+**Areas:** Company · SMS · Messaging · API · Russia
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sms.ru/)
+- [Documentation](https://sms.ru/docs)
+- [API reference](https://sms.ru/api)
+- [Pricing](https://sms.ru/price)
+- [Support](https://sms.ru/contacts)
+- [Blog](https://sms.ru/blog)
+- [Terms of service](https://sms.ru/oferta)
+- [Privacy policy](https://sms.ru/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sms-ru/](https://apis.io/providers/sms-ru/).
